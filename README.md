@@ -1,7 +1,7 @@
-### <div align="center">I'm Ricardo, a Biotechnology Engineer 🧪 with minor in Molecular Biology ⚗️ and Biocatalysis 🌱 and a Data Scientist 👨‍💻 </div>  
+### <div align="center">I'm Ricardo, a Biotechnology Engineer 🧪 with minor in Molecular Biology ⚗️ and Biocatalysis 🌱, Data Scientist 👨‍💻 and Computer System Validatiohn and Technical Equipment Calification Expert</div>  
   
 
-- 🔭 I’m currently looking for working as a Consultant 📈, Engineer 📔 or Data Related Area 🗃️  
+- 🔭 My working areas are Consultanting 📈, Engineering 📔 or Data Science and Analytics 🗃️  
   
 
 - 🚩 I’m currently learning Apache Airflow, Spark, Scala and working on a videogames project with webscrapping  
