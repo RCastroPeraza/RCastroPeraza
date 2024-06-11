@@ -10,7 +10,7 @@
 - 💥 Ask me about anything related Python, SQL, Data Analysis, Biotechnology or Molecular Biology  
   
 
-- ⚡Also, I'm working on my own entrepreneur mixing my passion for science, technology and education ✏️  
+- ⚡Also, I'm working on Validation of Computer Systems and Laboratory and Production Equipment in the Pharmaceutical Industry and my own entrepreneur mixing my passion for science, technology and education ✏️  
   
 
 <br/>  
